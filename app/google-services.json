@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "367583106078",
+    "firebase_url": "https://jobot-5afae.firebaseio.com",
+    "project_id": "jobot-5afae",
+    "storage_bucket": "jobot-5afae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367583106078:android:4b5e0fc970172564",
+        "android_client_info": {
+          "package_name": "com.duker.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367583106078-ra4he0b4tm7ig0jskeb0a7bonh678s89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcrdkyVX-RamVTmpQo0x91FlOTRbqIAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367583106078:android:a4f5e19f08fba878",
+        "android_client_info": {
+          "package_name": "com.duker.log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367583106078-ra4he0b4tm7ig0jskeb0a7bonh678s89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLcrdkyVX-RamVTmpQo0x91FlOTRbqIAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
